@@ -1,2 +1,2 @@
-git is easy
+nothgit is easy
 git is
